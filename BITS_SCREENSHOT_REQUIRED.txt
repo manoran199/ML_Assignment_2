@@ -1,0 +1,1 @@
+An authentic screenshot must be captured by the student inside BITS Virtual Lab. Run train_models.py or app.py there and capture one screenshot showing the environment and successful output.
